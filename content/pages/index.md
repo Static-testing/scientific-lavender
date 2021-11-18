@@ -140,7 +140,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-    section_id: grid-
+    section_id: grid-items
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
